@@ -11,21 +11,6 @@ It leverages stack data structures to handle these expressions, ensuring fast an
 
 ---
 
-## Features
-- **Prefix Evaluation:** Convert and evaluate prefix notation.
-- **Infix to Postfix Conversion:** Converts infix expressions to postfix for easier evaluation.
-- **Postfix Evaluation:** Evaluate postfix notation using stack.
-- Supports basic operators like `+`, `-`, `*`, `/`.
-
----
-
-## Project Structure
-- **Main Class:** `ExpressionEvaluator.java` (contains the logic for conversion and evaluation)
-- **Stack Utility:** Custom stack implementation (or Java's `Stack` class) for expression handling.
-- **Input Handling:** The program accepts user input for different expressions and evaluates them.
-
----
-
 ## Setup & Run Instructions
 
 1. **Clone the Repository:**
